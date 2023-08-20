@@ -1,4 +1,4 @@
-![Header](./github-header-image(1)png)
+
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
 <h3 align="center">Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
 
