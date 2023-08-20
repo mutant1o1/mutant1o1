@@ -1,4 +1,4 @@
-![logo](https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267_1280.jpg)
+<img height = "200" width="800" src="https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267_1280.jpg">
 
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
 <h3 align="center">Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
