@@ -1,26 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
 <h3 align="center">Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutant1o1&label=Profile%20views&color=0e75b6&style=flat" alt="mutant1o1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **React JS**
-
-- 🌱 I’m currently learning **ReactJS, NextJS, SpringBoot**
-
-- 💬 Ask me about **MERN and DSA**
-
-- 📫 How to reach me **chauhan.sahil.2022@gmail.com**
-
-- ⚡ Fun fact **"Every now and then, you might catch me smiling for absolutely no reason"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/vebra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vebra" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -34,16 +14,4 @@
 <img width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
 <img width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
 
-<img width="50" height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
 
-
-<img width="50" height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
-
-<img width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif"/>
- </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutant1o1&show_icons=true&locale=en&layout=compact" alt="mutant1o1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutant1o1&show_icons=true&locale=en" alt="mutant1o1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutant1o1&" alt="mutant1o1" /></p>
