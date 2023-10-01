@@ -1,5 +1,5 @@
-<h1 align="center" color="#f06>Hi 👋, I'm Sahil Chauhan</h1>
-<h3 align="center" color="#f06>Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
+<h1 align="center" color="#f06">Hi 👋, I'm Sahil Chauhan</h1>
+<h3 align="center" color="#f06">Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
 
 
 <h3 align="left" color="#f06">Languages and Tools:</h3>
