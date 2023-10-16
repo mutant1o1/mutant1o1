@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
-<h3 align="center">Enthusiastic Web Developer 🚀 | Crafting Immersive Digital Experiences🌟 | Open Source Advocate | Code Composer</h3>
-
-
-<h3 align="left" color="#f06">Languages and Tools:</h3>
 <p align="left">
 <img width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
 <img width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
