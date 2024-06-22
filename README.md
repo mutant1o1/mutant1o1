@@ -1,3 +1,5 @@
+![logo](https://github.com/mutant1o1/mutant1o1/blob/main/assets/banner.png)
+
 ### Hey, I'm Sahil 👋🏽  
 
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
