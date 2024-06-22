@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey, I'm Sahil 👋🏽  
 
-<!--
-**mutant1o1/mutant1o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://www.miraya.tech/) to learn more about me.
+- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
+- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
+- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` 
+
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+ 
+## ✨ Fun Facts 
+
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be an traffic police.
+- I love sketching.
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sahil-chauhan-629307233/). 
+ 
