@@ -1,5 +1,3 @@
-![logo](https://github.com/mutant1o1/mutant1o1/blob/main/assets/banner.png)
-
 ### Hey, I'm Sahil 👋🏽  
 
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
@@ -11,7 +9,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
  
 **Version Control:** `Git` `GitLab` 
 
@@ -20,7 +18,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an traffic police.
+- As a kid, I wanted to be like Tony Stark.
 - I love sketching.
 
 ## 📫 Contact
